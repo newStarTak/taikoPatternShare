@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01. Scenes/ScStart.unity
+    guid: 978f3273e156ecb479cad27df3b07930
+  - enabled: 1
+    path: Assets/01. Scenes/ScMain.unity
+    guid: bf50a9b1ca4b06444b9975cfee94831c
+  - enabled: 1
+    path: Assets/01. Scenes/ScRecord.unity
+    guid: e8d94db707ac16e4cada14e00371888a
+  - enabled: 1
+    path: Assets/01. Scenes/ScPlay.unity
+    guid: b175b84780212174195d820691482479
+  - enabled: 1
+    path: Assets/01. Scenes/ScLoadStart.unity
+    guid: f1f7b646a76dab14c8f0d2e453b2570f
+  - enabled: 1
+    path: Assets/01. Scenes/ScLoadFinish.unity
+    guid: 7327a42355469fa49963e3820df390d1
+  m_configObjects: {}
