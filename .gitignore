@@ -71,5 +71,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# com.MME.taiko.apk는 예외로 추가
-!com.MME.taiko.apk
+# 빌드 APK는 예외로 추가
+!com.KimGTs.taiko.apk
